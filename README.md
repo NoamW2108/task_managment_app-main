@@ -1,4 +1,4 @@
-## Basic Task Management App
+# Basic Task Management App
 
 A basic task manager built with Flutter that lets you add, complete, and track tasks — with history, QR sharing, and save local data via Hive.
 
