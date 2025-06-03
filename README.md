@@ -17,7 +17,7 @@ A basic task manager built with Flutter that lets you add, complete, and track t
 
 - **QR Code Sharing**  
   Scan a QR code to receive a text summary of:  
-  - Tasks left to complete  
+  - Tasks remaining to be completed
   - Tasks you’ve completed
 
 - **Data storage**  
